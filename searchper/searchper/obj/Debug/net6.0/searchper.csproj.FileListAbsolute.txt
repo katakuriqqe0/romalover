@@ -1,0 +1,14 @@
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\bin\Debug\net6.0\searchper.exe
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\bin\Debug\net6.0\searchper.deps.json
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\bin\Debug\net6.0\searchper.runtimeconfig.json
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\bin\Debug\net6.0\searchper.dll
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\bin\Debug\net6.0\searchper.pdb
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.AssemblyInfoInputs.cache
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.AssemblyInfo.cs
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.csproj.CoreCompileInputs.cache
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.dll
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\refint\searchper.dll
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.pdb
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\searchper.genruntimeconfig.cache
+C:\Users\katakuri\Documents\GitHub\romalover\searchper\searchper\obj\Debug\net6.0\ref\searchper.dll
